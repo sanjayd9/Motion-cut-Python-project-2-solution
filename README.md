@@ -23,16 +23,16 @@ Error Handling: Account for potential errors, such as empty input.
 Code Comments: Add comments to explain the purpose of different parts of your code.
 User-Friendly Interface: Ensure a clear and user-friendly interface for input and output
 
-word_count function: This function takes a sentence as input, splits it into words using whitespace as a delimiter, and returns the count of words.
+# word_count function: This function takes a sentence as input, splits it into words using whitespace as a delimiter, and returns the count of words.
 
-main function: This function is the entry point of the program. It prompts the user to enter a sentence or paragraph, checks for empty input, calls the word_count function, and displays the word count.
+# main function: This function is the entry point of the program. It prompts the user to enter a sentence or paragraph, checks for empty input, calls the word_count function, and displays the word count.
 
-User Input: The input function is used to take user input.
+# User Input: The input function is used to take user input.
 
-Word Counting Logic: The word counting logic is encapsulated in the word_count function.
+# Word Counting Logic: The word counting logic is encapsulated in the word_count function.
 
-Error Handling: Checks for empty input and displays an error message if needed.
+# Error Handling: Checks for empty input and displays an error message if needed.
 
-Code Comments: Comments are added to explain the purpose of different parts of the code.
+# Code Comments: Comments are added to explain the purpose of different parts of the code.
 
-User-Friendly Interface: The program prompts the user for input and provides clear output.
+# User-Friendly Interface: The program prompts the user for input and provides clear output.
